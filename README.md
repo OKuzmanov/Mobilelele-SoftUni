@@ -1,2 +1,2 @@
 # Mobilelele-SoftUni
-A demo project for the Spring Fundamentals course in SoftUni.
+A project for the Spring Fundamentals course in SoftUni.
