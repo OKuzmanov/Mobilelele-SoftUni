@@ -6,9 +6,9 @@ logging:
 spring:
     datasource:
         driverClassName: com.mysql.cj.jdbc.Driver
+        password: "0123"
         url: jdbc:mysql://localhost:3306/mobilelele_db?allowPublicKeyRetrieval=true&useSSL=false&createDatabaseIfNotExist=true
         username: root
-        password: 0123
     jpa:
         hibernate:
             ddl-auto: update
